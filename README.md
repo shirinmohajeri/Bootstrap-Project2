@@ -5,7 +5,9 @@ A responsive news website project built with **HTML**, **CSS**, and **Bootstrap 
 
 ---
 ### Preview
-![preview](https://raw.githubusercontent.com/shirinmohajeri/Car-Exhibition-Luxury-Automotive-Showcase/refs/heads/main/picture1.jpg)
+![preview](https://raw.githubusercontent.com/shirinmohajeri/Bootstrap-Project2/refs/heads/main/p1.jpg)
+![preview](https://raw.githubusercontent.com/shirinmohajeri/Bootstrap-Project2/refs/heads/main/p2.jpg)
+![preview](https://raw.githubusercontent.com/shirinmohajeri/Bootstrap-Project2/refs/heads/main/p3.jpg)
 ---
 
 ## 📌 About The Project
